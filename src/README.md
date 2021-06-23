@@ -14,7 +14,7 @@ tm
 
 ## 資料取得、整理（PTT網頁爬蟲）  
 
-- [data_process](./data_process.R)
+- [data_process原始碼](./data_process.R)
 
 ### 函數
 get_content_link: 取得文章超連結  
@@ -44,7 +44,7 @@ get_data: 獲得文章的內文
 
 將文章進行單字詞至七字詞組的斷詞。
 
--[ngram](./ngram.R)
+-[ngram原始碼](./ngram.R)
 
 
 
