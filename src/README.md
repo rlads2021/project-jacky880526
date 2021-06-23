@@ -68,7 +68,7 @@ get_data: 獲得文章的內文
 生小孩關鍵詞  
 -[生（f4.png）](./picture/f4.png)
 
-猶豫和隨便類型關鍵詞  
--[猶豫、隨便（f6/png）](./picture/f6.png)
+猶豫類型關鍵詞（「隨便」類型資料過少故刪除）  
+-[猶豫（f6/png）](./picture/f6.png)
 
 
