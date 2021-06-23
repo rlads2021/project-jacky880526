@@ -80,3 +80,4 @@ get_ngrams <- function(content) {
   all_ngrams <- bind_rows(a,b,c,d,e,f)
   return(all_ngrams)
 }
+all_ngrams <- get_ngrams(content$content_ques)
