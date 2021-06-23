@@ -60,7 +60,7 @@ get_data: 獲得文章的內文
 
 ### 用我們在資料中找到的關鍵詞（原因）進行「生小孩與否」原因分析和繪圖  
 
--[關鍵詞](./user_dict.txt)
+-[關鍵詞(user_dict)](./user_dict.txt)
 
 不生小孩關鍵詞    
 -[不生（f5.png）](./picture/f5.png)
