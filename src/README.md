@@ -47,7 +47,7 @@ get_data: 獲得文章的內文
 -[ngram原始碼](./Rscript/ngram.R)
 
 ## 分析及繪圖  
-- [分析及繪圖原始碼](./Rscript/analysis_and_plot)
+- [分析及繪圖原始碼](./Rscript/analysis_and_plot.R)
 
 ### 生/不生小孩關鍵詞  
 依據我們標記出的文章分類，進一步探討生育與否的關鍵詞
