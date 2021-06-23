@@ -11,6 +11,7 @@ ggplot2
 readr  
 tidyverse  
 
+- [原始碼](./Give Birth Or NOT.R)
 
 ## 資料取得（PTT網頁爬蟲）
 
@@ -41,6 +42,7 @@ rep4: 輸入關鍵字「生孩子」
 
 ## ngram斷詞函數
 
+get_ngrams: 
 
 
 
