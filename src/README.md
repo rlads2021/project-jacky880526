@@ -50,13 +50,17 @@ get_data: 獲得文章的內文
 - [分析及繪圖原始碼](./Rscript/analysis_and_plot.R)
 
 ### 生/不生小孩關鍵詞  
-依據我們標記出的文章分類，進一步探討生育與否的關鍵詞
+依據我們標記出的文章分類，進一步探討生育與否的關鍵詞  
+經由閱讀資料內容後所找出的關鍵詞歸類為底下兩類  
+-[birth_keywords](./keywords.csv)  
+-[keywords](./birth_keywords.csv)
+
 
 不生小孩關鍵詞      
--[不生](./picture/f2.png)
+-[不生（f2.png）](./picture/f2.png)
 
 生小孩關鍵詞    
--[生](./picture/f3.png)
+-[生（f3.png）](./picture/f3.png)
 
 ### 用我們在資料中找到的關鍵詞（原因）進行「生小孩與否」原因分析和繪圖  
 
